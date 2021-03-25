@@ -1,2 +1,2 @@
 # DASH
-for a showcase of dashboards made with python, HTML, CSS, and Java
+for a showcase of dashboards made with python, HTML, CSS, and JavaScript
